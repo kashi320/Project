@@ -15,6 +15,9 @@ int main() {
     if (percentage >= 80) cout << "Grade: A" << endl;
     else if (percentage >= 65) cout << "Grade: B" << endl;
     else if (percentage >= 50) cout << "Grade: C" << endl;
+     else if (percentage >= 50) cout << "Grade: C" << endl;
+      else if (percentage >= 50) cout << "Grade: C" << endl;
+       else if (percentage >= 50) cout << "Grade: C" << endl;
     else cout << "Grade: F" << endl;
  
     return 0;
